@@ -2,7 +2,6 @@ import './App.css';
 import * as React from 'react';
 import Box from '@mui/material/Box';
 import CssBaseline from '@mui/material/CssBaseline';
-import Button from '@mui/material/Button';
 import Container from '@mui/material/Container';
  
 function Display({dataS}) {
